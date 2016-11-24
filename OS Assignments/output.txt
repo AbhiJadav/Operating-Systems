@@ -1,0 +1,17 @@
+
+Client 1
+Needed Fund Vector : 40 30 
+Available Fund Vector : 30 40 
+Decision : Unsafe
+
+Client 2
+Needed Fund Vector : 30 40 
+Available Fund Vector : 30 40 
+Decision : Safe
+
+Client 1
+Needed Fund Vector : 40 30 
+Available Fund Vector : 50 50 
+Decision : Safe
+
+All clients are allocated funds safely.
